@@ -1,0 +1,2 @@
+#!/bin/bash
+/tmp /b > print.txt iamafile
